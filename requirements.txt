@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+validators
+requests
+python-whois
+joblib
+scikit-learn
+reportlab

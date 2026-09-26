@@ -1,0 +1,39 @@
+/* Main App */
+.stApp {
+    background-color: #0f172a;
+    color: white;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #111827;
+}
+
+/* Buttons */
+.stButton > button {
+    width: 100%;
+    background: linear-gradient(90deg,#2563eb,#1d4ed8);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.stButton > button:hover {
+    background: #1e40af;
+}
+
+/* Text Input */
+.stTextInput input {
+    border-radius: 10px;
+}
+
+/* Metric Cards */
+[data-testid="metric-container"] {
+    background-color: #1e293b;
+    border-radius: 15px;
+    padding: 15px;
+    border: 1px solid #334155;
+}

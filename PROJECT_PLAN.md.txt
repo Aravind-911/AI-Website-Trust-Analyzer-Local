@@ -1,0 +1,27 @@
+# AI Website Trust Analyzer
+
+## Pages
+- Dashboard
+- Analyze Website
+- Search History
+- Saved Websites
+- Reports
+- Settings
+- About
+
+## Features
+- SSL Certificate Check
+- HTTPS Check
+- Domain Age
+- Website Information
+- IP Information
+- Blacklist Check
+- VirusTotal
+- Google Safe Browsing
+- AI Trust Score
+- Customer Reviews
+- Explainable AI
+- PDF Report
+
+## Status
+Project Planning Started

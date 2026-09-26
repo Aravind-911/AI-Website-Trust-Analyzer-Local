@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+data/
+history/
+
+saved_websites.csv
+
+*.db
+*.sqlite
+*.sqlite3
+
+.env
+
+reports/
+Website_Report.pdf
